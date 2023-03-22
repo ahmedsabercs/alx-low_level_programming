@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
  * main - print _putchar
- * is written by mbah
+ * is written by bora
  * Return: 0
  */ 
-
 int main(void)
 {
 	_putchar('_');
