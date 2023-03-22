@@ -1,6 +1,10 @@
 #include "main.h"
 
-
+/**
+ * main - print _putchar
+ * is written by bora
+ * Return: 0
+ */ 
 
 int main(void)
 {
